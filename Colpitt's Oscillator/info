@@ -1,0 +1,248 @@
+{
+  "uuid": "32d528c42bd84b26a12605f0eb9b5d66",
+  "path": "Offline/Colpitt's%20Oscillator",
+  "name": "Colpitt's Oscillator",
+  "content": "",
+  "created_at": "2024-01-08 22:24:55",
+  "updated_at": "2024-01-09 06:45:55",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "bd6bed28b91b81d187e765dccb30e13f",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6eb592415bb4494687359e71066e1aa6": 1,
+        "20b37122052a4452998e1fe41d6cf920": 4,
+        "f9d187d6193e48748e3124fbb7128d90": 2,
+        "f29f57ac58b24353a27984c5792bbc76": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7p",
+          1,
+          "C0402",
+          "C1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "18p",
+          1,
+          "C0402",
+          "C2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "1.6f",
+          1,
+          "C0402",
+          "C3",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "1.7p",
+          1,
+          "C0402",
+          "C4",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "0.5p",
+          2,
+          "C0402",
+          "C5,C6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "36.2n",
+          1,
+          "L0402",
+          "L1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "L0402_US",
+            "Manufacturer Part": "",
+            "puuid": "8da96988a9164ab09ca115e01caf2944",
+            "uuid": "f9d187d6193e48748e3124fbb7128d90"
+          }
+        ],
+        [
+          "86u",
+          1,
+          "L0402",
+          "L2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "L0402_US",
+            "Manufacturer Part": "",
+            "puuid": "8da96988a9164ab09ca115e01caf2944",
+            "uuid": "f9d187d6193e48748e3124fbb7128d90"
+          }
+        ],
+        [
+          "BFR93A",
+          1,
+          "SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR",
+          "Q1",
+          {
+            "Contributor": "LCSC",
+            "Supplier Part": "C151481",
+            "Supplier": "LCSC",
+            "Manufacturer": "Infineon(英飞凌)",
+            "Manufacturer Part": "BFR93AWH6327",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "BFR93AWH6327XTSA1",
+            "puuid": "e98891da83fd4e29afbfe03f858920c7",
+            "uuid": "6eb592415bb4494687359e71066e1aa6"
+          }
+        ],
+        [
+          "22",
+          1,
+          "R0402",
+          "R1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "20b37122052a4452998e1fe41d6cf920"
+          }
+        ],
+        [
+          "47",
+          1,
+          "R0402",
+          "R2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "20b37122052a4452998e1fe41d6cf920"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0402",
+          "R3",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "20b37122052a4452998e1fe41d6cf920"
+          }
+        ],
+        [
+          "18",
+          1,
+          "R0402",
+          "R4",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "20b37122052a4452998e1fe41d6cf920"
+          }
+        ]
+      ],
+      "updateTime": 1704762343,
+      "createTime": 1704732896,
+      "histories": [],
+      "created_at": "2024-01-08 22:24:56",
+      "updated_at": "2024-01-09 06:35:43"
+    },
+    {
+      "uuid": "533c04ac2ab5b7b3123ced96e83139a4",
+      "puuid": "32d528c42bd84b26a12605f0eb9b5d66",
+      "title": "PCB_Colpitt's Oscillator",
+      "filename": "PCB_Colpitt's Oscillator.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0821ed6ea50c44f4909e4be7610e4198": 6,
+        "8da96988a9164ab09ca115e01caf2944": 2,
+        "e98891da83fd4e29afbfe03f858920c7": 1,
+        "fafd024f554e426eb74cf4a204aa88b0": 4
+      },
+      "BOM": [],
+      "updateTime": 1704762955,
+      "createTime": 1704762887,
+      "histories": [],
+      "created_at": "2024-01-09 06:44:47",
+      "updated_at": "2024-01-09 06:45:55"
+    }
+  ],
+  "sort": [],
+  "title": "Colpitt's Oscillator",
+  "foldername": "Colpitt's Oscillator",
+  "schfilename": "Colpitt's Oscillator.json",
+  "schfilemtime": 1704762343127
+}
